@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://magalaby.github.io/sitemap/sitemap.txt
